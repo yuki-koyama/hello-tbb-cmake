@@ -4,7 +4,7 @@ A hello-world project for testing `parallel_for` in Intel(R) Threading Building 
 
 ## How It Works
 
-Wenzel Jakob (a great research) provides a repository containing TBB and CMake files for building TBB: <https://github.com/wjakob/tbb>. 
+Wenzel Jakob (a great researcher) provides a repository containing TBB and CMake files for building TBB: <https://github.com/wjakob/tbb>. 
 
 This hello-world repository includes Wenzel's TBB as a gitsubmodule, which is built using CMake's `ExternalProject_Add` command.
 
